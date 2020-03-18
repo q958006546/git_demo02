@@ -3,6 +3,7 @@ public class User {
         System.out.println(6666);
         System.out.println(6666);
         System.out.println(6666);
-        System.out.println(7777);
+        系统。出来。println（7777）;
+哈哈哈
     }
 }
